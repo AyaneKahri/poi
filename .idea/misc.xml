@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_left.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_leftfile.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_leftlocation.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_right.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_rightPDF.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_rightfil.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_rightfile.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/background_rightlocation.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/boton_redondo.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/btn_mas.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/btn_redondo.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/btn_redondo_sinRelleno.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/btn_redondo_sinfondo.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_attach_file_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_group_add_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_group_work_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_location_on_azul.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_sticky_note_2_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_user.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_baseline_west_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/drawable/img_redonda.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_chat_menu.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_crear_grupo.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_crear_sub_grupo.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_crear_tarea.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_group_add_participant.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_menu.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_menu_sub_group.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_menugroup.xml" value="0.16033755274261605" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_message.xml" value="0.3557692307692308" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_navegador.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_registro.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_registro2.xml" value="0.14221014492753623" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/activity_sub_group_add_participant.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/chat_item_left.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/chat_item_right.xml" value="0.3756345177664975" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/chatgroup_item_left.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/chatgroup_item_right.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_chats.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_chatsgroup.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_contacts.xml" value="0.17953667953667954" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_dashboard.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_groups.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_home.xml" value="0.12545289855072464" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_infogroup.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_notifications.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/fragment_tareas.xml" value="0.22" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/registro.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/toolbar.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/layout/user_item.xml" value="0.8333333333333334" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/bottom_navigation.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/bottom_navigationgroup.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/bottom_navigationsubgroup.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/navegador.xml" value="0.1796875" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/navegadorgroup.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/menu/top_navigation.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14375" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/monic/Jobi/app/src/main/res/xml/provider_paths.xml" value="0.14221014492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

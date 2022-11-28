@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Jobi</string>
+    <string name="registrarse">Registrarse</string>
+
+    <string name="logo">logo</string>
+    <string name="nombre">Nombre</string>
+    <string name="registro">Registro</string>
+    <string name="name">Name</string>
+    <string name="icon">icon</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="contrase_a">Contraseña</string>
+
+    <string name="fondo">Fondo</string>
+    <string name="title_activity_navegador">Navegador</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="chats">Chats</string>
+    <string name="contactos">Contactos</string>
+    <string name="grupos">Grupos</string>
+    <string name="perfil">Perfil</string>
+    <string name="username">Username</string>
+    <string name="mandar">mandar</string>
+    <string name="escribe_tu_mensaje">Escribe tu mensaje</string>
+    <string name="nombre_del_sub_grupo">Nombre del sub-grupo</string>
+    <string name="crear_sub_grupo">Crear Sub-Grupo</string>
+    <string name="examinar">Examinar</string>
+    <string name="buscar">Buscar...</string>
+    <string name="paticipantes">Paticipantes</string>
+    <string name="crear_grupo">Crear Grupo</string>
+    <string name="nombre_del_grupo">Nombre del grupo</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="todo">TODO</string>
+    <string name="correo">Correo</string>
+    <string name="todo1">TODO</string>
+    <string name="nombre1">Nombre</string>
+    <string name="contrase_a1">Contraseña</string>
+    <string name="correo1">Correo</string>
+    <string name="examinar1">Examinar</string>
+    <string name="registrarse1">Registrarse</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857669607229",
+    "project_id": "jobi-7d053",
+    "storage_bucket": "jobi-7d053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857669607229:android:44a0617e760f1669edef54",
+        "android_client_info": {
+          "package_name": "com.example.jobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857669607229-karukvdlftskacuc6m8aqd3paa1udmip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrODTYufp5_iXPKIS7x528cbWZMJs1y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857669607229-karukvdlftskacuc6m8aqd3paa1udmip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

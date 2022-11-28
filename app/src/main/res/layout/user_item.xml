@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/fotouser"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@mipmap/ic_launcher"></de.hdodenhof.circleimageview.CircleImageView>
+
+    <TextView
+        android:id="@+id/nombreusuario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toEndOf="@+id/fotouser"
+        android:layout_toRightOf="@+id/fotouser"
+        android:text="Username"
+        android:textSize="18dp"
+
+
+        >
+
+    </TextView>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:civ_border_width="10dp"
+        app:civ_border_color="#05df29"
+        android:visibility="gone"
+        android:id="@+id/img_on"
+        android:src="@mipmap/ic_launcher"
+        android:layout_below="@+id/nombreusuario"
+        android:layout_marginLeft="-15dp"
+        android:layout_toRightOf="@+id/fotouser"
+        android:layout_toEndOf="@+id/fotouser">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:civ_border_width="10dp"
+        app:civ_border_color="#bfbfbf"
+        android:visibility="gone"
+        android:id="@+id/img_off"
+        android:src="@mipmap/ic_launcher"
+        android:layout_below="@+id/nombreusuario"
+        android:layout_marginLeft="-15dp"
+        android:layout_toRightOf="@+id/fotouser"
+        android:layout_toEndOf="@+id/fotouser">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:visibility="gone"
+        android:id="@+id/notif"
+        android:src="@drawable/ic_baseline_notifications_24"
+        android:layout_below="@+id/nombreusuario"
+     android:layout_alignParentRight="true">
+
+    </de.hdodenhof.circleimageview.CircleImageView>
+</RelativeLayout>
